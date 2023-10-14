@@ -14,9 +14,13 @@ Antes de utilizar esta API, asegúrate de haber configurado un certificado SSL l
 
 Asegúrate de que tu entorno de desarrollo esté configurado correctamente con el certificado SSL antes de continuar con la utilización de la API.
 
-## Uso de la API
+### Uso de la API
 
-Una vez que hayas configurado el certificado SSL local, puedes utilizar esta API para imprimir documentos de forma remota en tu impresora local. Aquí se encuentran las instrucciones sobre cómo utilizar la API (proporciona aquí las instrucciones específicas si las tienes).
+Una vez que hayas configurado el certificado SSL local y copiado el contenido de este repositorio en la carpeta "print" de tu servidor local (por ejemplo, en XAMPP), puedes hacer un test de impresión ingresando a la siguiente dirección:
+
+[https://print.incloud.pe/](https://print.incloud.pe/)
+
+Sigue las instrucciones en esa dirección para realizar una prueba de impresión.
 
 ## Contribuciones
 
@@ -31,4 +35,3 @@ Si encuentras algún problema o tienes sugerencias, crea un informe de problemas
 Este proyecto está bajo la Licencia MIT. Consulta el archivo `LICENSE` para obtener más detalles.
 
 ¡Gracias por utilizar esta API y disfruta de la impresión remota segura!
-
